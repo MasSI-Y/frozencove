@@ -2,6 +2,15 @@
 
 A learning project I built in Unreal Engine 5.4 in summer 2026. I first built it by following a teacher's course, then rebuilt it again on my own to make sure I actually understood each system. It is **unfinished** — this repo documents what works so far and what I learned from building it.
 
+## What's in This Repo
+
+- `Gameproject.uproject` and `Config/` (the .uproject is currently associated with UE 5.5)
+- `Content/maps` — the FrozenCove level, plus an early test map (map_01)
+- `Content/BP`, `Content/framework`, `Content/anim` — gameplay Blueprints and animation assets
+- `Content/UMG` — the HUD widgets (ability bar, health bar)
+- Binary assets (.uasset / .umap) are stored with **Git LFS** — run `git lfs pull` after cloning to get the real files
+- The Epic asset packs this project uses (Paragon Gideon & Shinbi, Starter Content, Infinity Blade Ice Lands) are **not included** for licensing reasons, so the project will have missing-asset references without them
+
 ## Current State
 
 **Working:**
