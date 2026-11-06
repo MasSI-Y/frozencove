@@ -1,0 +1,46 @@
+# Unreal Engine .gitignore
+
+# Cache / generated folders - never upload
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Visual Studio / IDE files
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcodeproj
+*.xcworkspace
+
+# Compiled files
+*.obj
+*.o
+*.lib
+*.a
+*.dll
+*.so
+*.dylib
+*.exe
+*.out
+*.app
+
+# Built data for maps
+*_BuiltData.uasset
+
+# Epic / third-party asset packs in this project - not redistributed publicly
+Content/ParagonGideon/
+Content/ParagonShinbi/
+Content/StarterContent/
+Content/InfinityBladeIceLands/
+Content/QuadrapedCreatures/
+Content/Collections/
+Content/Developers/
