@@ -41,4 +41,10 @@ A learning project I built in Unreal Engine 5.4 in summer 2026. I first built it
 
 ## Screenshots
 
-_(add 2–3 screenshots — your editor shot of FrozenCove works)_
+![The FrozenCove arena — facing the wolf enemy on the castle steps](screenshots/screenshot-1.png)
+
+![Combat from above, with the UMG ability bar and health bar](screenshots/screenshot-2.png)
+
+![The wolf enemy up close](screenshots/screenshot-3.png)
+
+![Looking out over the cove](screenshots/screenshot-4.png)
